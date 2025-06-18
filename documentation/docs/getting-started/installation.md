@@ -57,7 +57,7 @@ import DesktopInstallButtons from '@site/src/components/DesktopInstallButtons';
         ```sh
         curl -fsSL https://github.com/block/goose/releases/download/stable/download_cli.sh | bash
         ```
-        This script will fetch the latest version of Goose and set it up on your system.
+        This script will fetch the latest version of Goose and set it up on your system. You can view the installation script's source [here](https://github.com/block/goose/blob/main/download_cli.sh).
 
         If you'd like to install without interactive configuration, disable `CONFIGURE`:
 
@@ -87,7 +87,7 @@ import DesktopInstallButtons from '@site/src/components/DesktopInstallButtons';
     ```sh
     curl -fsSL https://github.com/block/goose/releases/download/stable/download_cli.sh | bash
     ```
-    This script will fetch the latest version of Goose and set it up on your system.
+    This script will fetch the latest version of Goose and set it up on your system. You can view the installation script's source [here](https://github.com/block/goose/blob/main/download_cli.sh).
 
     If you'd like to install without interactive configuration, disable `CONFIGURE`:
 
@@ -115,6 +115,7 @@ import DesktopInstallButtons from '@site/src/components/DesktopInstallButtons';
     ```bash
     curl -fsSL https://github.com/block/goose/releases/download/stable/download_cli.sh | bash
     ```
+    You can view the installation script's source [here](https://github.com/block/goose/blob/main/download_cli.sh).
     :::tip
       If you encounter any issues on download, you might need to install `bzip2` to extract the downloaded file:
 
