@@ -55,6 +55,7 @@ Goose is an open source AI agent that supercharges your software development by 
         ```sh
         curl -fsSL https://github.com/block/goose/releases/download/stable/download_cli.sh | bash
         ```   
+        You can view the installation script's source [here](https://github.com/Inhishonor/goose/blob/main/download_cli.sh).
       </TabItem>
     </Tabs>
   </TabItem>
@@ -86,6 +87,7 @@ Goose is an open source AI agent that supercharges your software development by 
           sudo apt update && sudo apt install bzip2 -y
           ```
         :::
+        You can view the installation script's source [here](https://github.com/block/goose/blob/main/download_cli.sh).
       </TabItem>
     </Tabs>
   </TabItem>
